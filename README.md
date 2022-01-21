@@ -1,7 +1,3 @@
--- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/i-nasa/roblox/scripts/client-settings"))()
-Aiming.TeamCheck(false)
-
 -- // Services
 local Workspace = game:GetService("Workspace")
 local Players = game:GetService("Players")
